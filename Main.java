@@ -9,5 +9,8 @@ System.out.println("Output from java program");
 System.out.println("hello");
 
 System.out.println("Added one more file");
+
+Student student = new Student();
+student.sayHello();
 }
 }
